@@ -43,7 +43,7 @@ dev_dependencies:
     sdk: flutter
 flutter_icons:
   android: true
-  image_path: "assets/icons/quiz_application_icon.jpg"
+  image_path: "assets/icons/quiz_icon.jpg"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
