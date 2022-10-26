@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
-class MyProvider extends ChangeNotifier{
-
+class MyProvider extends ChangeNotifier {
   int score = 0;
 
-  add(){
+  add() {
     score++;
     notifyListeners();
   }
-
 }
